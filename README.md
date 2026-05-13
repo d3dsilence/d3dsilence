@@ -51,7 +51,7 @@ philosophy:  "Build the foundations right, and the rest follows."
 
 **Currently Exploring**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=android,kotlin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" />
 </div>
 
 <br/>
