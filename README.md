@@ -51,7 +51,9 @@ philosophy:  "Build the foundations right, and the rest follows."
 
 **Currently Exploring**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" alt="android logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
 </div>
 
 <br/>
