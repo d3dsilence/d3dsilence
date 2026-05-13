@@ -38,7 +38,6 @@ philosophy:  "Build the foundations right, and the rest follows."
 **Languages**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs,java,js,ts,py&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
 </div>
 
 <br/>
