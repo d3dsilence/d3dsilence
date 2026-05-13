@@ -27,7 +27,7 @@ focus:       Backend Development & Android Apps
 languages:   C#  ·  Java  ·  JavaScript  ·  TypeScript  ·  Python
 databases:   MySQL  ·  MongoDB  ·  SQLite
 learning:    → Android Development (Kotlin)
-os:          Linux (Ubuntu)
+os:          Windows 11 (Pro)
 philosophy:  "Build the foundations right, and the rest follows."
 ```
 
