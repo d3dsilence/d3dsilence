@@ -24,7 +24,7 @@
 ```yaml
 handle:      d3dsilence
 focus:       Backend Development & Android Apps
-languages:   C#  ·  Java  ·  JavaScript  ·  TypeScript  ·  Python
+languages:   C#  ·  Java  ·  JavaScript  ·  TypeScript  ·  Python  ·  Golang
 databases:   MySQL  ·  MongoDB  ·  SQLite
 learning:    → Android Development (Kotlin)
 os:          Windows 11 (Pro)
