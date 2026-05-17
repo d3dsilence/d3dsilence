@@ -114,11 +114,11 @@ philosophy:  "Build the foundations right, and the rest follows."
 
 <div align="left">
   <a href="https://t.me/lib_nova" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-d3dsilence-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Telegram-lib_nova-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="https://discord.gg/libnova" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-dedsilence-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Discord-libnova-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" />
   </a>
 </div>
 
